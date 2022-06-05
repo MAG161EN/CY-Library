@@ -27,4 +27,4 @@
 
 **_(OS)  WINDOWS_**
 
---> in Makefile change **WINDOWS = no** to **WINDOWS = YES**
+--> in Makefile change **WINDOWS = false** to **WINDOWS = true**
