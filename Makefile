@@ -3,7 +3,7 @@ EXEC = CY-Librairy
 SRC = $(wildcard *.c)
 OBJ = $(SRC:.c=.o)
 
-WINDOWS = no
+WINDOWS = false
 
 ifeq ($(WINDOWS), true) # Mingw only
 	CLEAN = del /S *.o
