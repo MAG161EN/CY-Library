@@ -1,6 +1,6 @@
 # CY-Library
 
-![image](https://user-images.githubusercontent.com/106913812/172070448-e3fa7056-aa1a-409f-99a5-0d3f932cbc73.png)
+![image](https://user-images.githubusercontent.com/106913812/172070477-8f226314-ca1f-485d-a045-bbbe1079e763.png)
 
 
 ---------------------------------------------------------------------------------------------------------------
