@@ -22,7 +22,7 @@
 
 **_CLEAN & MRPROPER_**
 
-**-->** To delete all .o files, write this command in your linux terminal: **make clean**
+**-->** To delete all **.o files**, write this command in your linux terminal: **make clean**
 
 **-->** To delete all **.o files** and the **CY-Library.out** (Unix) or **CY-Library.exe** (Windows)  write this command in your linux terminal: **make mrproper**
 
