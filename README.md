@@ -5,13 +5,13 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-**_How to use_**
+**_HOW TO USE_**
 
 **1.** Download all files and place them in the same directory
 
 **2.** To compil this program, write this command in your linux terminal: **make**
 
-**3.** Once the files are compiled, write this command in your linux terminal: **./CY-Library**
+**3.** Once the files are compiled, write this command in your linux terminal to run the program: **./CY-Library**
 
 
 ---------------------------------------------------------------------------------------------------------------
