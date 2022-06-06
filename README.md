@@ -1,5 +1,11 @@
 # CY-Library
 
+
+You can create your account and then log in. 
+In the application you have the choice to borrow several books, up to 3 for the student role and up to 5 for the teachers. 
+These books are sorted by subject, so your research will be easier.
+Afterwards you can return your books so that other users can borrow them.
+
 ---------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/106913812/172070477-8f226314-ca1f-485d-a045-bbbe1079e763.png)
